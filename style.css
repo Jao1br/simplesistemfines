@@ -1,0 +1,29 @@
+body{
+	background: url('wuloop.gif');
+	color: rgb(255, 255, 255);
+	font: normal 15pt Arial;
+	text-align: center;
+
+	
+}
+
+input#verificar{
+	font: Arial;
+	border: 10%;
+	color: rgb(255, 0, 0);
+	background-color: blue;
+	border-radius: 12%;
+	border-bottom: 20%;
+	cursor: pointer;
+
+}
+.vel {
+	color: rgb(3, 243, 3);
+}
+.h2 {
+	color: rgb(255, 255, 255);
+}
+
+.multa {
+	color: red;
+}
